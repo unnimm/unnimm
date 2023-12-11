@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=A3C8DC&height=200&section=header&text=Unnimm%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=78B2D1&height=200&section=header&text=Unnimm%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=40" />
 
 <h1 align="center" style="color:#595959;">skill</h1>
 <div></div>
