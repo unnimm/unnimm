@@ -2,7 +2,7 @@
   
 
 
-<h2 align="center">🛠️ Skill 🛠️</h2>
+<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <div align="center">
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
