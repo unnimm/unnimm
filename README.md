@@ -3,14 +3,19 @@
 
 <h1 align="center" style="color:#595959;">skill</h1>
 <div align="center" style="grid-column:2">
-<img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-<img src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white>
-<img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
-<img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-<img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white>
-<img src=https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge>
-</div>
+
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img height="20" width="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=unnimm&show_icons=true&theme=transparent&title_color=1D73A1&icon_color=1D73A1&text_color=595959">
