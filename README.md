@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=78B2D1&height=200&section=header&text=Unnimm%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=37" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=78B2D1&height=200&section=header&text=Unnimm%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=37&rank_icon=github" />
 <div align="center">
 <h2>🖋️ Record</h2>
 <p>충북대학교 소프트웨어학과/의류학과 재학 2021.3 ~ </p>
