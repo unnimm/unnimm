@@ -25,7 +25,7 @@
 <div align="center">
 <h2>📊 statistics</h2>
 <div >
-  <img src = "https://github-readme-stats.vercel.app/api?username=unnimm&show_icons=true&theme=transparent&title_color=1D73A1&icon_color=1D73A1&text_color=595959&rank_icon=github">
+  <img src = "https://github-readme-stats.vercel.app/api?username=unnimm&show_icons=true&theme=transparent&title_color=1D73A1&icon_color=1D73A1&text_color=595959&rank_icon=github&hide_border=true">
 </div>
 </div>
 
