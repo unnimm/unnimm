@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=78B2D1&height=200&section=header&text=Unnimm%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=37" />
 <div align="center">
 <h2>🖋️ Record</h2>
-<p>충북대학교 소프트웨어학과/의류학과 재학 2021.3 ~ </p>
+<p>충북대학교 소프트웨어학과/의류학과 재학 2021.3 ~</p>
 <p>충북대학교 직무잡아드림 IT동아리 코어 2022.3 ~ </p>
 <p>한이음 스마트해상물류 ICT멘토링 2023.4 ~ 2023.11</p>
 <br/>
